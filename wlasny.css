@@ -183,15 +183,66 @@ a:hover{
 /*#####################################################################################################################*/
 /* O nas */
 /*#####################################################################################################################*/
+#onas{
+	padding-top: 8rem;
+	padding-bottom: 3rem;
+	text-align: center;
+}
 
+.onas_naglowek{
+	margin-bottom: 5rem;
+}
 
+.thumbnail{
+	background-color: #1abc9c;
+	border-radius: 6px;
+	padding: 2rem;
+	height: 60%;
+}
+
+.thumbnail h3{
+	color: #ffffff;
+}
+
+.thumbnail p{
+	font-size: 1.5rem;
+	color: #ffffff;
+}
 
 /*#####################################################################################################################*/
 /* Liczby */
 /*#####################################################################################################################*/
+#liczby{
+	padding-top: 5rem;
+	padding-bottom: 3rem;
+	background-color: #6dbcdb;
+}
+
+#liczby h1,
+#liczby h5{
+	color: #6dbcdb;
+}
+#liczby h3,
+#liczby p{
+	color: #ffffff;
+}
 
 
+.liczby_kafelek{
+	background-color: #ffffff;
+	padding-top: 2rem;
+	padding-bottom: 3rem;
+	margin-bottom: 2rem;
+	text-align: center;
+	border-radius: 0.4rem;
+}
 
+.liczby_kafelek h1{
+	font-weight: 500;
+}
+.liczby_kafelek h5{
+	font-size: 2rem;
+}
 /*#####################################################################################################################*/
 /* Zespół */
 /*#####################################################################################################################*/
