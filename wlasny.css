@@ -298,20 +298,58 @@ a:hover{
 /*#####################################################################################################################*/
 /* Współpracowicy */
 /*#####################################################################################################################*/
+#wspolpracownicy{
+	padding-top: 6rem;
+	padding-bottom: 3rem;
+	text-align: center;
+}
 
+.wspolpracownicy_naglowek{
+	padding-bottom: 5rem;
+}
 
+.wspolpracownicy_foto{
+	padding: 1.7rem;
+	margin: 0 auto;
+	width: 26rem;
+}
 
 /*#####################################################################################################################*/
 /* Kursy */
 /*#####################################################################################################################*/
+#kursy{
+	padding-top: 6rem;
+	padding-bottom: 3rem;
+	text-align: center;
+}
 
+.kursy_naglowek{
+	padding-bottom: 5rem;
+}
+.kursy_zdjecia{
+	margin-bottom: 1.5rem;
+}
 
 
 /*#####################################################################################################################*/
 /* Klienci */
 /*#####################################################################################################################*/
+#klienci{
+	padding-top: 6rem;
+	padding-bottom: 3rem;
+	text-align: center;
+	height: 40rem;
+	background-color: #000000;
+	width: 100%;
+	margin: 0 auto;
+	display: inline-block;
+	background: url('../images/klienci_tlo.jpg') repeat 0 1000px fixed;	
+}
 
-
+#klienci h2{
+	color: #ffffff;
+	margin-bottom: 4rem;
+}
 
 /*#####################################################################################################################*/
 /* Promocje */
