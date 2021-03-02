@@ -4,3 +4,4 @@ Expanded Project
 <!-- Day 3 -->
 <!-- Day 4 -->
 <!-- Day 5: not much-->
+<!-- Day 6: let's do this! -->
