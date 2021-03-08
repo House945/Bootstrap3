@@ -355,12 +355,71 @@ a:hover{
 /* Promocje */
 /*#####################################################################################################################*/
 
+#promocje{
+	padding-top: 6rem;
+	padding-bottom: 3rem;
+	text-align: center;
+}
 
+.promocje_naglowek{
+	padding-bottom: 5rem;
+}
 
+#promocje h5,
+#promocje p{
+	text-align: left;
+	margin-top: 4rem;
+
+}
 
 /*#####################################################################################################################*/
 /* Wyprzedaż */
 /*#####################################################################################################################*/
+#wyprzedaz{
+	padding-top: 6rem;
+	padding-bottom: 3rem;
+	text-align: center;
+}
+
+.wyprzedaz_naglowek{
+	padding-bottom: 5rem;
+}
+
+.wyprzedaz_kafelek_naglowek{
+	padding-top: 1.5rem;
+	padding-bottom: 2rem;
+	background-color: #ECF0F1;
+	border-top-left-radius: 0.4rem;
+	border-top-right-radius: 0.4rem;
+	-webkit-border-top-left-radius: 0.4rem;
+	-webkit-border-top-right-radius: 0.4rem;
+	-moz-border-radius-topleft: 0.4rem;
+	-moz-border-radius-topright: 0.4rem;
+}
+
+.wyprzedaz_kafelek_opis{
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	padding-right: 1.5rem;
+	padding-left: 1.5rem;
+	font-size: 1.5rem;
+	background-color: #E4E4E4;
+	border-top-left-radius: 0.4rem;
+	border-top-right-radius: 0.4rem;
+	-webkit-border-bottom-left-radius: 0.4rem;
+	-webkit-border-bottom-right-radius: 0.4rem;
+	-moz-border-radius-bottomleft: 0.4rem;
+	-moz-border-radius-bottomright: 0.4rem;
+}
+
+.wyprzedaz_zdjecie{
+	position: relative;
+	left:0;
+	top:0;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 
 /*#####################################################################################################################*/
