@@ -182,7 +182,10 @@ a:hover{
 	background-color: #f7f8fa;
 }
 
-
+#nowosci a:hover{
+	-webkit-animation: pulse .8s;
+	animation: pulse .8s;
+}
 
 /*#####################################################################################################################*/
 /* O nas */
@@ -287,12 +290,15 @@ a:hover{
 	text-align: center;
 	padding-bottom: 2rem;
 }
-.zespol_przyciski{
 
+.zespol_ikony a:hover span{
+	-webkit-animation: rubberBand .8s;
+	animation: rubberBand .8s;
 }
 
-.zespol_ikony{
-
+.zespol_przyciski a:hover{
+	-webkit-animation: rotateOut .5s;
+	animation: rotateOut .5s;
 }
 
 /*#####################################################################################################################*/
@@ -314,6 +320,16 @@ a:hover{
 	width: 26rem;
 }
 
+#wspolpracownicy a:hover img{
+	-webkit-animation: pulse .8s;
+	animation: pulse .8s;
+}
+
+#wspolpracownicy a:hover span{
+	-webkit-animation: flip .8s;
+	animation: flip .8s;
+}
+
 /*#####################################################################################################################*/
 /* Kursy */
 /*#####################################################################################################################*/
@@ -326,10 +342,16 @@ a:hover{
 .kursy_naglowek{
 	padding-bottom: 5rem;
 }
+
 .kursy_zdjecia{
 	margin-bottom: 1.5rem;
 }
 
+.kursy_zdjecia a:hover img{
+	-webkit-animation: pulse .8s;
+	animation: pulse .8s;
+	opacity: 0.8;
+}
 
 /*#####################################################################################################################*/
 /* Klienci */
@@ -421,6 +443,10 @@ a:hover{
 	margin-right: auto;
 }
 
+#wyprzedaz a:hover {
+	-webkit-animation: pulse .8s;
+	animation: pulse .8s;
+}
 
 /*#####################################################################################################################*/
 /* Kontakt */
@@ -429,6 +455,11 @@ a:hover{
 	padding-top: 15rem;
 	padding-bottom: 15rem;
 	text-align: left;
+}
+
+#kontakt button:hover {
+	-webkit-animation: wobble .8s;
+	animation: wobble .8s;
 }
 
 /*#####################################################################################################################*/
