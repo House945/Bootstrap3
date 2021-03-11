@@ -1,0 +1,50 @@
+@media(min-width: 1200px){
+	html{
+		font-size: 60%;
+		line-height: 1.2rem;
+	}
+}
+
+@media(min-width: 992px) and (max-width: 1199px){
+	html{
+		font-size: 50%;
+		line-height: 1.2rem;
+	}
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+	html{
+		font-size: 40%;
+		line-height: 1.2rem;
+	}
+}
+
+@media (max-width: 767px){
+	.carousel-caption h1,
+	.carousel-caption p{
+		font-size: 2rem;
+		line-height: 2.5rem;
+	}
+	#klienci{
+		height: 60rem;
+	}
+	.block{
+		margin-left: -20px;
+		margin-right: -20px;
+	}
+}
+@media (max-width: 480px){
+	
+	.carpusel-caption{
+		top: 10px;
+		padding-top: 1rem;
+	}
+	.carousel-caption p{
+		font-size: 1rem;
+		line-height: 1rem;
+	}
+	#klienci{
+		height: 50rem;
+	}
+
+}
