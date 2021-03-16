@@ -12,3 +12,4 @@ Expanded Project
 <!-- Day 11(6) -->
 <!-- Day 12: almost done; LESS left -->
 <!-- LESS -->
+// Jaaaavaaaaascript part2 //
