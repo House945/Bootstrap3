@@ -15,3 +15,4 @@ Expanded Project
 <!-- Javascript Day 2-->
 <!-- Laaazy day-->
 <!-- MGGP -->
+<!-- Thank god it's friday / Santander -->
