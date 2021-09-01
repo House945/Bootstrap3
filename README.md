@@ -1,3 +1,3 @@
-# Bootstrap3
+# Bootstrap 3
 Expanded Project
 
